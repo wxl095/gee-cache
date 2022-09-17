@@ -4,26 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1dac32f4-727c-4e16-bc4b-646b31c2f521" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cache.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/byteview.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cache.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consistenthash/consistenthash.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consistenthash/consistenthash_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geecache.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geecache_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geecachepb/geecachepb.pb.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geecachepb/geecachepb.proto" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/http_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lru/lru.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lru/lru_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singleflight/singleflight.go" afterDir="false" />
+    <list default="true" id="1dac32f4-727c-4e16-bc4b-646b31c2f521" name="变更" comment=":tada:">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,6 +158,14 @@
       <workItem from="1663299233723" duration="104000" />
       <workItem from="1663299422509" duration="456000" />
     </task>
+    <task id="LOCAL-00001" summary=":tada:">
+      <created>1663393639938</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663393639938</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +181,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value=":tada:" />
+    <option name="LAST_COMMIT_MESSAGE" value=":tada:" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
